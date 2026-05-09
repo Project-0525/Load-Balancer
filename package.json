@@ -1,0 +1,12 @@
+{
+  "name": "load-balancer",
+  "version": "1.0.0",
+  "description": "Beginner-friendly load balancer with sticky IP mapping, health checks, and metrics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
